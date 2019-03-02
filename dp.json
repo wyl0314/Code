@@ -5,7 +5,7 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "显示内容":"舆情热点和网络线索aaa",
+      "显示内容":"舆情热点和网络线索",
       "url": "http://apptrans.gmw.cn/node_121469.htm",
       "duration": 5,
       "tabReloadIntervalSeconds": 6000
