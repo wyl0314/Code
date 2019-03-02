@@ -1,0 +1,57 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "显示内容":"舆情热点和网络线索aaa",
+      "url": "http://apptrans.gmw.cn/node_121469.htm",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "显示内容":"光明日报",
+      "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=1002",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "显示内容":"光明日报客户端",
+      "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=1298",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "显示内容":"光明日报微博",
+      "url": "http://apptrans.gmw.cn/node_121469.htm",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "显示内容":"光明日报微信",
+      "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=1143",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "显示内容":"光明网微博",
+      "url": "http://apptrans.gmw.cn/node_121469.htm",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "显示内容":"光明网微信",
+      "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=1360",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "显示内容":"光明网原创",
+      "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=1007",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 6000
+    }
+
+  ]
+}
