@@ -24,7 +24,7 @@
     },       
     {
       "显示内容":"光明日报微博",
-      "url": "http://apptrans.gmw.cn/node_121469.htm",
+      "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=22&mt=weibo",
       "duration": 5,
       "tabReloadIntervalSeconds": 6000
     },       
@@ -36,7 +36,7 @@
     },       
     {
       "显示内容":"光明网微博",
-      "url": "http://apptrans.gmw.cn/node_121469.htm",
+      "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=23&mt=weibo",
       "duration": 5,
       "tabReloadIntervalSeconds": 6000
     },       
